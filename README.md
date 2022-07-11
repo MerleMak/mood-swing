@@ -2,5 +2,5 @@
 
 A mood barometer
 
-#Sources
-(range input generator)[https://range-input-css.netlify.app/]
+# Sources
+[range input generator](https://range-input-css.netlify.app/)
